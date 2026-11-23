@@ -1,0 +1,4 @@
+interface:
+  display_name: "WebAR 3D Menu Architect"
+  short_description: "Crie cardápios 3D e WebAR para restaurantes"
+  default_prompt: "Use $webar-3d-menu-architect para criar um cardápio 3D com visualização em realidade aumentada."
